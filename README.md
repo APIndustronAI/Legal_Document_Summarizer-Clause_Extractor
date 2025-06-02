@@ -1,0 +1,2 @@
+# Legal_Document_Summarizer-Clause_Extractor
+Legal_Document_Summarizer&amp;Clause_Extractor
